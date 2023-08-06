@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/32c1fdf051c9c07579dd6487c9c566b8/tumblr_mlthkuZqUT1s035gko1_400.gifv" width="400"/>
+  <img src="https://github.com/Adrian-Kolodziejczyk/Adrian-Kolodziejczyk/blob/c59703449e2226c5a62868f593ef3849c3545f9d/goku_hey.gif" width="400"/>
   <h1>
     hey there
   </h1>
