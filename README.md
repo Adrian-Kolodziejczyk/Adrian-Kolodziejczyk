@@ -4,6 +4,6 @@
     Hey there
   </h1>
 </div>
-<div>
+<div align="center">
   <h2>Welcome to my Github profile!</h2>
 </div>
